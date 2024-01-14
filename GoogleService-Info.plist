@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAbL3qZhCZopwR-qdv1u842nCZWzx0hSZQ</string>
+	<string>AIzaSyAwyaL84ah1QxzH1Ds-a60NAa7gZDsJuGk</string>
 	<key>GCM_SENDER_ID</key>
-	<string>533785537579</string>
+	<string>239692277291</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>1022294302222403</string>
 	<key>PROJECT_ID</key>
-	<string>ragnarok-m-a-realm-reborn-sea</string>
+	<string>dwalinnewyork</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ragnarok-m-a-realm-reborn-sea.appspot.com</string>
+	<string>dwalinnewyork.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:533785537579:ios:2af7e02a5e9edfe0c84e6e</string>
+	<string>1:239692277291:ios:870d689e39357d869cac6e</string>
 </dict>
 </plist>
